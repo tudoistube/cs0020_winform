@@ -21,10 +21,6 @@ namespace cs0020_winform
         {
             button1.Text = "Change again!";
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            button2.Text = "1번 저장"
-        }
+        
     }
 }

@@ -57,9 +57,9 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("굴림", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button2.Location = new System.Drawing.Point(292, 306);
+            this.button2.Location = new System.Drawing.Point(292, 293);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(163, 50);
+            this.button2.Size = new System.Drawing.Size(163, 57);
             this.button2.TabIndex = 2;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
