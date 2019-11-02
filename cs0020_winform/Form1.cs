@@ -24,7 +24,7 @@ namespace cs0020_winform
 
         private void button2_Click(object sender, EventArgs e)
         {
-            button2.Text = "again!";   
+            button2.Text = "Yes, again!";   
         }
     }
 }
